@@ -31,7 +31,7 @@ It includes tables, relationships, and constraints demonstrating relational data
 ## 🎯 Features
 
 * Multiple related tables
-* Primary and foreign keys
+* Primary and Foreign key constraints
 * Real-world relational design
 
 ## 👨‍💻 Author
