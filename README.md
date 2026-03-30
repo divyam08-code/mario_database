@@ -31,8 +31,8 @@ It includes tables, relationships, and constraints demonstrating relational data
 ## 🎯 Features
 
 * Multiple related tables
-* Primary and Foreign key constraints
-* Real-world relational design
+* Implementation of primary and foreign key constraints
+* Structured design reflecting real-world relational databases
 
 ## 👨‍💻 Author
 
