@@ -2,8 +2,8 @@
 
 ## 📌 Description
 
-This project contains a PostgreSQL database dump for a Mario-themed dataset.
-It includes tables, relationships, and constraints demonstrating relational database concepts.
+This project features a PostgreSQL database dump based on a Mario-themed dataset.
+It demonstrates core relational database concepts through well-structured tables, relationships, and constraints.
 
 ## 🛠 Technologies Used
 
