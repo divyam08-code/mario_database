@@ -32,7 +32,7 @@ It demonstrates core relational database concepts through well-structured tables
 
 * Multiple related tables
 * Implementation of primary and foreign key constraints
-* Structured design reflecting real-world relational databases
+* Structured design representing real-world relational databases
 
 ## 👨‍💻 Author
 
